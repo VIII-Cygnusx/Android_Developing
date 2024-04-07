@@ -1,0 +1,2 @@
+com.example.my_demo_spark.test:style/WhiteBackgroundTheme = 0x7f010001
+com.example.my_demo_spark.test:style/WhiteBackgroundDialogTheme = 0x7f010000

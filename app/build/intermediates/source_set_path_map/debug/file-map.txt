@@ -1,0 +1,31 @@
+com.example.my_demo_spark.app-cardview-1.0.0-0 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\019add5e771534bb68424657ad94cdee\transformed\cardview-1.0.0\res
+com.example.my_demo_spark.app-annotation-experimental-1.3.0-1 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\075bf41ce814d4260f02e042700ce999\transformed\annotation-experimental-1.3.0\res
+com.example.my_demo_spark.app-core-1.9.0-2 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\16088aea6844a21f0ae8707202a192eb\transformed\core-1.9.0\res
+com.example.my_demo_spark.app-activity-1.6.0-3 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\2078cc67205e605e3a84ad9da6d36cae\transformed\activity-1.6.0\res
+com.example.my_demo_spark.app-viewpager2-1.0.0-4 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\21f8526f0d48b1fdd53d78929a1fa6eb\transformed\viewpager2-1.0.0\res
+com.example.my_demo_spark.app-transition-1.2.0-5 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\24e292814f39170d1e074f0f7e2528d2\transformed\transition-1.2.0\res
+com.example.my_demo_spark.app-lifecycle-process-2.4.1-6 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\3000b6b92cffbf8c85b306e5e4cc0661\transformed\lifecycle-process-2.4.1\res
+com.example.my_demo_spark.app-constraintlayout-2.1.4-7 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\3c6b14974eada3b737e4646addd01d24\transformed\constraintlayout-2.1.4\res
+com.example.my_demo_spark.app-savedstate-1.2.0-8 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\438d092415e3cac725ed96d128cf729c\transformed\savedstate-1.2.0\res
+com.example.my_demo_spark.app-lifecycle-viewmodel-savedstate-2.5.1-9 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\4739c21f2373576dc353c0929cf4b35b\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.my_demo_spark.app-material-1.9.0-10 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\4c4241c4c32971a6073ec7b2fcbdc410\transformed\material-1.9.0\res
+com.example.my_demo_spark.app-emoji2-views-helper-1.2.0-11 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\54014958ac3ef3e8237a34f4fe916232\transformed\emoji2-views-helper-1.2.0\res
+com.example.my_demo_spark.app-fragment-1.3.6-12 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\65612b5fae6c2aa4265237c94fd623b4\transformed\fragment-1.3.6\res
+com.example.my_demo_spark.app-lifecycle-livedata-core-2.5.1-13 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\75282fda34e713a308ffd847c56ee986\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.my_demo_spark.app-lifecycle-runtime-2.5.1-14 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\808a325119b8d930cf137e86d6255876\transformed\lifecycle-runtime-2.5.1\res
+com.example.my_demo_spark.app-appcompat-resources-1.6.1-15 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\8c60153bca6de4306b04ab8bc2348ea8\transformed\appcompat-resources-1.6.1\res
+com.example.my_demo_spark.app-startup-runtime-1.1.1-16 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\9b710c4adc9712c14d4578c905862b5b\transformed\startup-runtime-1.1.1\res
+com.example.my_demo_spark.app-core-ktx-1.9.0-17 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\9d8212a7194cce6918f0bcf7a51a434d\transformed\core-ktx-1.9.0\res
+com.example.my_demo_spark.app-recyclerview-1.1.0-18 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\a65e8c428b7a0a1c4b434414f3b71118\transformed\recyclerview-1.1.0\res
+com.example.my_demo_spark.app-appcompat-1.6.1-19 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\b1741c2033ae6eec819ff5ea06ca1704\transformed\appcompat-1.6.1\res
+com.example.my_demo_spark.app-coordinatorlayout-1.1.0-20 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\c5ea42966a2d56db249b10afa4b9da03\transformed\coordinatorlayout-1.1.0\res
+com.example.my_demo_spark.app-emoji2-1.2.0-21 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\ea260942d8acadff20549e4d8b1553b4\transformed\emoji2-1.2.0\res
+com.example.my_demo_spark.app-drawerlayout-1.1.1-22 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\f334f190f31d9ed5ccf4dcace1573dc2\transformed\drawerlayout-1.1.1\res
+com.example.my_demo_spark.app-lifecycle-viewmodel-2.5.1-23 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\fa92facc3d56a2c0f473a35a9cda7bed\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.my_demo_spark.app-pngs-24 G:\Android ST\my_demo_spark\app\build\generated\res\pngs\debug
+com.example.my_demo_spark.app-resValues-25 G:\Android ST\my_demo_spark\app\build\generated\res\resValues\debug
+com.example.my_demo_spark.app-packageDebugResources-26 G:\Android ST\my_demo_spark\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.my_demo_spark.app-packageDebugResources-27 G:\Android ST\my_demo_spark\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.my_demo_spark.app-merged_res-28 G:\Android ST\my_demo_spark\app\build\intermediates\merged_res\debug
+com.example.my_demo_spark.app-debug-29 G:\Android ST\my_demo_spark\app\src\debug\res
+com.example.my_demo_spark.app-main-30 G:\Android ST\my_demo_spark\app\src\main\res

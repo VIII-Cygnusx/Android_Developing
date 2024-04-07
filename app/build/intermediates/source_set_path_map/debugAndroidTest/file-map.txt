@@ -1,0 +1,6 @@
+com.example.my_demo_spark.test.app-annotation-experimental-1.3.0-0 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\075bf41ce814d4260f02e042700ce999\transformed\annotation-experimental-1.3.0\res
+com.example.my_demo_spark.test.app-core-1.5.0-1 C:\Users\VIII-Cygnusx\.gradle\caches\transforms-3\30568b380fcbd6c472dec8793871322c\transformed\core-1.5.0\res
+com.example.my_demo_spark.test.app-androidTest-2 G:\Android ST\my_demo_spark\app\build\generated\res\resValues\androidTest\debug
+com.example.my_demo_spark.test.app-mergeDebugAndroidTestResources-3 G:\Android ST\my_demo_spark\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.my_demo_spark.test.app-mergeDebugAndroidTestResources-4 G:\Android ST\my_demo_spark\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.my_demo_spark.test.app-merged_res-5 G:\Android ST\my_demo_spark\app\build\intermediates\merged_res\debugAndroidTest
