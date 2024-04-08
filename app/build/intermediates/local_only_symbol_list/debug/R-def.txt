@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable _114514
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable sdrferfef
+drawable voice_empty
+id B_1
+id B_2
+id ETX
+id RX
+id STT_RES
+id TX
+id imageView3
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.My_demo_spark
+style Theme.My_demo_spark
+xml backup_rules
+xml data_extraction_rules
