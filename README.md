@@ -1,2 +1,2 @@
-# Android_Developing
-本人android项目开发集合
+# 科大讯飞的星火大模型+科大讯飞语音听写
+Android实现
