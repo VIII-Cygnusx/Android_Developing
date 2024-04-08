@@ -1,2 +1,2 @@
-# Android_Developing
-本人android项目开发集合
+# NCNN移植
+从0搭建官方ncnn_squeezenet项目
